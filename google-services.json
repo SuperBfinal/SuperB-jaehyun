@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670675162782",
+    "project_id": "superb-b6b22",
+    "storage_bucket": "superb-b6b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670675162782:android:22a4f25f25c9b4d3010d8f",
+        "android_client_info": {
+          "package_name": "com.example.superb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670675162782-342s18spf9c01q1v5unl75bhjcv2avi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPcfNoJs0vPVxzlo-nwQ-t01Xpu75NnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670675162782-342s18spf9c01q1v5unl75bhjcv2avi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
